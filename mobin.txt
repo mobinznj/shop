@@ -1,2 +1,1 @@
-vless://a2f930b0-797a-4dd4-c7ed-450655c0d6e1@85.239.61.165:49818?path=%2F&security=none&encryption=none&host=bmi.ir&type=ws#Londonbmi
-
+vmess://eyJhZGQiOiJhMjUubWVocmkuZ2EiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjZhYTNhZDAzLTZkZjQtNGNlMi04ZGMzLTdjN2I0OTAyNTE3OCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQwMDI1IiwicHMiOiJDZiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
