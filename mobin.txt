@@ -1,1 +1,1 @@
-vless://e0b2c03e-1aba-4624-e369-19c2d127e888@isna.ir:8080?path=%2F&security=none&encryption=none&host=21.mobinz.cf&type=ws#Mrj
+vless://88ba121c-913f-4f93-e0f1-93bec18f49d4@nlm.mehri.ml:46344?path=%2F&security=none&encryption=none&type=ws#Nlm3
