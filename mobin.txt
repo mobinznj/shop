@@ -1,1 +1,1 @@
-vmess://eyJhZGQiOiJhMjUubWVocmkuZ2EiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjZhYTNhZDAzLTZkZjQtNGNlMi04ZGMzLTdjN2I0OTAyNTE3OCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQwMDI1IiwicHMiOiJDZiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vless://e0b2c03e-1aba-4624-e369-19c2d127e888@isna.ir:8080?path=%2F&security=none&encryption=none&host=21.mobinz.cf&type=ws#Mrj
