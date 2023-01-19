@@ -1,1 +1,2 @@
 vless://cfbbbec8-a9bb-42d5-a12f-97eb154e1b31@26.mobinz.ga:80?path=%2F&security=none&encryption=none&type=ws#26
+vless://beff5810-1839-4bca-e52f-8bb2572b03a4@sciencedirect.com:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=27.mehri.ga&sni=27.mehri.ga#S27kizil
